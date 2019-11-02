@@ -10,10 +10,6 @@ namespace Pecuniary.Security.Data.Events
 
         public CreateSecurityRequest Security { get; internal set; }
 
-        public SecurityCreatedEvent() : base(nameof(SecurityCreatedEvent), _eventVersion)
-        {
-        }
-
         public SecurityCreatedEvent(Guid id, CreateSecurityRequest security) : base(nameof(SecurityCreatedEvent), _eventVersion)
         {
             Id = id;
