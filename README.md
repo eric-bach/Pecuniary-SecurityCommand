@@ -6,9 +6,10 @@
 
 Pipeline | Build Status
 -|-
-Unit tests | [![Build status](https://ci.appveyor.com/api/projects/status/8jsne6x8k5wglvdg?svg=true)](https://ci.appveyor.com/project/eric-bach/pecuniary-securitycommand)
-Code coverage | [![codecov](https://codecov.io/gh/eric-bach/Pecuniary-SecurityCommand/branch/master/graph/badge.svg)](https://codecov.io/gh/eric-bach/Pecuniary-SecurityCommand)
-Code review | [![CodeFactor](https://www.codefactor.io/repository/github/eric-bach/pecuniary-securitycommand/badge)](https://www.codefactor.io/repository/github/eric-bach/pecuniary-securitycommand)
+Build | [![Build status](https://ci.appveyor.com/api/projects/status/8jsne6x8k5wglvdg?svg=true)](https://ci.appveyor.com/project/eric-bach/pecuniary-securitycommand)
+Unit Tests | ![AppVeyor tests](https://img.shields.io/appveyor/tests/eric-bach/Pecuniary-SecurityCommand)
+Code Coverage | [![codecov](https://codecov.io/gh/eric-bach/Pecuniary-SecurityCommand/branch/master/graph/badge.svg)](https://codecov.io/gh/eric-bach/Pecuniary-SecurityCommand)
+Code Quality | [![CodeFactor](https://www.codefactor.io/repository/github/eric-bach/pecuniary-securitycommand/badge)](https://www.codefactor.io/repository/github/eric-bach/pecuniary-securitycommand)
 
 ## Packages
 
